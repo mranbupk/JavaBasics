@@ -41,7 +41,7 @@ public class FunctionString {
 }
 
 
-public class SolutionString {
+public class Solution {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
